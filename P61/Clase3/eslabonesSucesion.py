@@ -3,9 +3,9 @@
 
 #Algoritmo (pseudocódigo)
 # 1) Cargar los cuatro puntos.
-# 2) Calcular la distancia entre el punto 1 y el punto 2 y almancerla.
-# 3) Calcular la distancia entre el punto 2 y el punto 3 y almancerla.
-# 4) Calcular la distancia entre el punto 3 y el punto 4 y almancerla.
+# 2) Calcular la distancia entre el punto 1 y el punto 2 y almacenarla.
+# 3) Calcular la distancia entre el punto 2 y el punto 3 y almacenarla.
+# 4) Calcular la distancia entre el punto 3 y el punto 4 y almacenarla.
 # 6) Obtener la distancia promedio de la secuencia y almacenarla.
 # 7) Obtener la menor longitud de conexión y almacenarla.
 # 8) Obtener la mayor longitud de conexión y almacenarla.
